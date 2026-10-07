@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "announcementId": "test-bell-003",
-  "supporterVersion": "1.0.0",
-  "headline": "Intelligent Actions",
-  "description": "Talk2NPCAI Supporters v1.0.0 is now available with Intelligent Actions Patreon.",
+  "announcementId": "v2-launch-001",
+  "supporterVersion": "2.0.0",
+  "headline": "Talk2NPC v2.0 is here Patreon: talk, command, and face the consequences",
+  "description": "What's new: automatic API key rotation,  physical NPC actions by voice or text, the Retribution system, and the in-game settings menu. Open the menu (F10 by default) and check Supporter for details.",
   "showNewBadge": true
 }
+
